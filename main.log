@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.8)  29 SEP 2024 18:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.8)  29 SEP 2024 18:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -733,47 +733,47 @@ l.126 \newpage
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 177.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 183.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [2
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.177 \subsubsection
+l.183 \subsubsection
                     {Base Granular CBR 80\% (m³)}]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 210.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 227.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [3]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 254.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 272.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [4
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.254 \subsubsection
+l.272 \subsubsection
                     {Relleno Estructural Permeable}]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 259.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 277.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [5]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 270.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 288.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [6]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 280.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 298.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [7] (main.aux
 LaTeX Info: Redefining \. on input line 11.
