@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1727626109.80331 "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/Tarea_1_MTC/main.tex" "build/main.pdf" "main" 1727626111.62637 0
+["pdflatex"] 1727635997.90195 "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/Tarea_1_MTC/main.tex" "build/main.pdf" "main" 1727635999.59449 0
   "C:/Users/A/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1727097588 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/A/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1722890009 11548 068e7275f20c22bf76bbb3e7ea995c7a ""
   "C:/Users/A/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1710856774 24221282 a5876e0c9e755de8e44ee96826d1c75a ""
@@ -156,11 +156,11 @@
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "LOGO_UNIVERSIDAD.jpg" 1725225541 209820 2134e729a4493a99d3d34c719af1eecf ""
-  "build/main.aux" 1727626111 1845 3b28940f269819c968c39ddb51e41826 "pdflatex"
-  "build/main.out" 1727626111 1981 ee0a692195d929298bbef484b948a521 "pdflatex"
-  "build/main.toc" 1727626111 1002 c893d51ca5b508bc79b326f27861acea "pdflatex"
-  "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/Tarea_1_MTC/main.tex" 1727626109 11537 62b6ce579a4c3946d71475c8e24f5e7d ""
-  "main.tex" 1727626109 11537 62b6ce579a4c3946d71475c8e24f5e7d ""
+  "build/main.aux" 1727635999 1964 8b745fb3780b7305fa66d6b2e2602430 "pdflatex"
+  "build/main.out" 1727635999 2139 3ae3416d226e9b14409defc661e58225 "pdflatex"
+  "build/main.toc" 1727635999 1080 b88643363e75b566a5b2b6734db8ca98 "pdflatex"
+  "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/Tarea_1_MTC/main.tex" 1727635997 13780 575b1e079a653c6d653371373fd114cf ""
+  "main.tex" 1727635997 13780 575b1e079a653c6d653371373fd114cf ""
   (generated)
   "build/main.aux"
   "build/main.log"
