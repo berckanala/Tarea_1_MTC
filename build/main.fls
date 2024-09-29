@@ -322,7 +322,13 @@ INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\public\cm\cmbx12.tfm
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\Tarea_1_MTC\build\main.toc
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\Tarea_1_MTC\build\main.toc
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\Tarea_1_MTC\build\main.toc
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 OUTPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\Tarea_1_MTC\build\main.toc
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
@@ -334,5 +340,13 @@ INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmbx10
 INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmr7.pfb
