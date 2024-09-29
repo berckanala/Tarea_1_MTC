@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1727645486.04052 "c:/Users/pedro/OneDrive/Escritorio/T1_MTC/informe/Tarea_1_MTC/main.tex" "main.pdf" "main" 1727645487.24974 0
+["pdflatex"] 1727645766.20939 "c:/Users/pedro/OneDrive/Escritorio/T1_MTC/informe/Tarea_1_MTC/main.tex" "main.pdf" "main" 1727645767.4276 0
   "C:/Users/pedro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1727063478 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/pedro/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1000.pk" 1727641525 12124 aad1917e45aa909f2bbea30f42a00f38 ""
   "C:/Users/pedro/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1723153317 11548 283e5f25dea57f2f6c4c1ba3bb2d77d8 ""
@@ -158,11 +158,11 @@
   "C:/Users/pedro/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/pedro/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "LOGO_UNIVERSIDAD.jpg" 1727626343 209820 2134e729a4493a99d3d34c719af1eecf ""
-  "c:/Users/pedro/OneDrive/Escritorio/T1_MTC/informe/Tarea_1_MTC/main.tex" 1727645485 20871 07a5267289e95174a476b02b81fc92e0 ""
-  "main.aux" 1727645487 4955 31df063c32053fe1b526c6780ba8988b "pdflatex"
-  "main.out" 1727645487 6924 08db62155df40b2178e3a6b82622a686 "pdflatex"
-  "main.tex" 1727645485 20871 07a5267289e95174a476b02b81fc92e0 ""
-  "main.toc" 1727645487 3160 8084e6683fc4e41de6fc34655f7901d8 "pdflatex"
+  "c:/Users/pedro/OneDrive/Escritorio/T1_MTC/informe/Tarea_1_MTC/main.tex" 1727645765 21017 c52360edc2415e8432f10bf7b3f13b72 ""
+  "main.aux" 1727645767 4955 31df063c32053fe1b526c6780ba8988b "pdflatex"
+  "main.out" 1727645767 6924 08db62155df40b2178e3a6b82622a686 "pdflatex"
+  "main.tex" 1727645765 21017 c52360edc2415e8432f10bf7b3f13b72 ""
+  "main.toc" 1727645767 3160 8084e6683fc4e41de6fc34655f7901d8 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

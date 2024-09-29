@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.8)  29 SEP 2024 18:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.8)  29 SEP 2024 18:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -733,47 +733,47 @@ l.126 \newpage
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 178.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 177.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [2
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.178 \subsubsection
+l.177 \subsubsection
                     {Base Granular CBR 80\% (m³)}]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 211.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 210.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [3]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 255.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 254.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [4
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.255 \subsubsection
+l.254 \subsubsection
                     {Relleno Estructural Permeable}]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 260.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 259.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [5]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 271.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 270.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [6]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 281.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 280.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [7] (main.aux
 LaTeX Info: Redefining \. on input line 11.
@@ -795,7 +795,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,16n,93p,852b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1000.pk> <C:\Users\pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on main.pdf (9 pages, 352635 bytes).
+Output written on main.pdf (9 pages, 352770 bytes).
 PDF statistics:
  257 PDF objects out of 1000 (max. 8388607)
  41 named destinations out of 1000 (max. 500000)
