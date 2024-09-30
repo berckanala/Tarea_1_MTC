@@ -324,12 +324,25 @@ INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\Tarea_1_MTC\b
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\Tarea_1_MTC\build\main.toc
 INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\jknappen\ec\tcrm1000.tfm
 OUTPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\Tarea_1_MTC\build\main.toc
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
-INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\Users\A\Desktop\Programar\miketex\fonts\tfm\jknappen\ec\tcbx1000.tfm
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
+INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT .\LOGO_UNIVERSIDAD.jpg
@@ -345,6 +358,8 @@ INPUT .\LOGO_UNIVERSIDAD.jpg
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\Tarea_1_MTC\build\main.aux
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\Tarea_1_MTC\build\main.out
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\Tarea_1_MTC\build\main.out
+INPUT C:\Users\A\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcbx1000.pk
+INPUT C:\Users\A\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcbx1000.pk
 INPUT C:\Users\A\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\A\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmbx10.pfb

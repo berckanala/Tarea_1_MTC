@@ -1,8 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1727635997.90195 "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/Tarea_1_MTC/main.tex" "build/main.pdf" "main" 1727635999.59449 0
+["pdflatex"] 1727726898.70652 "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/Tarea_1_MTC/main.tex" "build/main.pdf" "main" 1727726900.76176 0
   "C:/Users/A/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1727097588 82507 a9eef8696c92627b87e9975edea03b2a ""
+  "C:/Users/A/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1000.pk" 1724874261 12124 f42477aff5ac649024f59cf521f4ca54 ""
   "C:/Users/A/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1722890009 11548 068e7275f20c22bf76bbb3e7ea995c7a ""
   "C:/Users/A/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1710856774 24221282 a5876e0c9e755de8e44ee96826d1c75a ""
+  "C:/Users/A/Desktop/Programar/miketex/fonts/tfm/jknappen/ec/tcbx1000.tfm" 993062478 1456 278016b1e421c8e979679e0372f68bf1 ""
   "C:/Users/A/Desktop/Programar/miketex/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/A/Desktop/Programar/miketex/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/A/Desktop/Programar/miketex/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -156,11 +158,11 @@
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "LOGO_UNIVERSIDAD.jpg" 1725225541 209820 2134e729a4493a99d3d34c719af1eecf ""
-  "build/main.aux" 1727635999 1964 8b745fb3780b7305fa66d6b2e2602430 "pdflatex"
-  "build/main.out" 1727635999 2139 3ae3416d226e9b14409defc661e58225 "pdflatex"
-  "build/main.toc" 1727635999 1080 b88643363e75b566a5b2b6734db8ca98 "pdflatex"
-  "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/Tarea_1_MTC/main.tex" 1727635997 13780 575b1e079a653c6d653371373fd114cf ""
-  "main.tex" 1727635997 13780 575b1e079a653c6d653371373fd114cf ""
+  "build/main.aux" 1727726900 4955 31df063c32053fe1b526c6780ba8988b "pdflatex"
+  "build/main.out" 1727726900 6924 08db62155df40b2178e3a6b82622a686 "pdflatex"
+  "build/main.toc" 1727726900 3160 8084e6683fc4e41de6fc34655f7901d8 "pdflatex"
+  "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/Tarea_1_MTC/main.tex" 1727726898 21084 2f388cd6d642b5602890a9f4f88a3477 ""
+  "main.tex" 1727726898 21084 2f388cd6d642b5602890a9f4f88a3477 ""
   (generated)
   "build/main.aux"
   "build/main.log"
